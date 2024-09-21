@@ -8,8 +8,6 @@ import { HeroesModule } from './Heroes/heroes.module';
 import { AppComponent } from './app.component';
 
 
-
-
 @NgModule({
   declarations: [
     AppComponent,
